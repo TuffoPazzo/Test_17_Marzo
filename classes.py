@@ -1,5 +1,6 @@
 import os
 
+#prova
 class DettagliFile(object):
     def __init__(self, path):
         self.name = os.path.basename(path)
